@@ -1,0 +1,72 @@
+{
+  "team": "Barcelona",
+  "source": "https://www.thesportsdb.com",
+  "matches": [
+    {
+      "match": "Barcelona vs Como, 2025-08-10",
+      "competition": null,
+      "analysis": {
+        "weaknesses": [],
+        "strengths": [],
+        "successful_tactics": [],
+        "best_placements": [],
+        "overall_feedback": "No specific feedback available."
+      }
+    },
+    {
+      "match": "Barcelona vs Villarreal, 2025-05-18",
+      "competition": null,
+      "analysis": {
+        "weaknesses": [],
+        "strengths": [],
+        "successful_tactics": [],
+        "best_placements": [],
+        "overall_feedback": "No specific feedback available."
+      }
+    },
+    {
+      "match": "Barcelona vs Real Madrid, 2025-05-11",
+      "competition": null,
+      "analysis": {
+        "weaknesses": [],
+        "strengths": [],
+        "successful_tactics": [],
+        "best_placements": [],
+        "overall_feedback": "No specific feedback available."
+      }
+    },
+    {
+      "match": "Barcelona vs Inter Milan, 2025-04-30",
+      "competition": null,
+      "analysis": {
+        "weaknesses": [],
+        "strengths": [],
+        "successful_tactics": [],
+        "best_placements": [],
+        "overall_feedback": "No specific feedback available."
+      }
+    },
+    {
+      "match": "Barcelona vs Real Madrid, 2025-04-26",
+      "competition": null,
+      "analysis": {
+        "weaknesses": [],
+        "strengths": [],
+        "successful_tactics": [],
+        "best_placements": [],
+        "overall_feedback": "No specific feedback available."
+      }
+    }
+  ],
+  "team_summary": {
+    "avg_insights": [
+      "No clear patterns identified.",
+      "Insufficient data for insights."
+    ],
+    "priority_actions": [
+      "Gather more match data.",
+      "Analyze individual player performance.",
+      "Develop specific game plans."
+    ]
+  }
+}
